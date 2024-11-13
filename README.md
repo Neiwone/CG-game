@@ -1,7 +1,7 @@
 ALUNOS:
 
-José Matheus Santana
-Hugo Coelho
-Laura Costa
-Rafael Luciano Lima da Silva
-Vinicius Neitzke
+1. José Matheus Santana
+2. Hugo Coelho
+3. Laura Costa
+4. Rafael Luciano Lima da Silva
+5. Vinicius Neitzke
